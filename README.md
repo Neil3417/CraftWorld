@@ -1,0 +1,1 @@
+This is a world where you can add elements of your own. You are the God who crafts all the elements and decide how they interacts with each other. Essential elements are added such as water, fire and soil. Code and EXplore
